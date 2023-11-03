@@ -8,7 +8,7 @@ By Simbolo, Simbolo: Servicio, Simbolo: Idioma
 Lately, Hello-Myanmar dataset contains data from 3 languages in Myanmar, including Burmese, Shan, and Mon lately. Each sample is a sentence data with a label of ISO 639-1 code of respective language, e.g. my, shn, mnw. We are planning to keep collecting more languages such as Kachin, Karen, Arakanese, etc.
 
 # <b> Data </b>
-Each training sample and testing sample is a sentence data like this:
+The following represents sentence data for each language:
 <table>
     <tr>
         <th> Data </th>
