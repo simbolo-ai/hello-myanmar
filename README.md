@@ -1,10 +1,11 @@
 
 # Hello-Myanmar: Myanmar-Languages'-Classification-Public-Dataset
-Myanmar Languages' Classification Public Dataset: 3 languages including Burmese, Shan, and Mon
+Myanmar Languages' Classification Public Dataset: 3 languages including Burmese, Shan, and Mon.
+Myanmar Languages are absolutely under resourced, and insufficient in fields such as artificial intelligence and machine learning, having an ample amount of high-quality data is often essential for training accurate models. Even Burmese which is an official language of Myanmar is also leading to a lack of sufficient, relevant, or high-quality data for a particular purpose or domain. Collecting data from these languages helps preserve linguistic diversity and cultural heritage.
 By Simbolo, Simbolo: Servicio, Simbolo: Idioma
 
 # <b> Overview </b>
-Hello-Myanmar dataset contains data from 3 languages in Myanmar, including Burmese, Shan, and Mon, etc. Each sample is a sentence data with a label of ISO 639-1 code of respective language, e.g. my, shn, mnw, etc.
+Lately, Hello-Myanmar dataset contains data from 3 languages in Myanmar, including Burmese, Shan, and Mon lately. Each sample is a sentence data with a label of ISO 639-1 code of respective language, e.g. my, shn, mnw. We are planning to keep collecting more languages such as Kachin, Karen, Arakanese, etc.
 
 # <b> Data </b>
 Each training sample and testing sample is a sentence data like this:
